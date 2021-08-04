@@ -1,9 +1,10 @@
 ### Olá! Eu sou a Franciele Lourenço
 
 
+- 🎓 Tecnologia da informação
+- 💻 Hoje trabalho com front-end, utilizando o wordpress para a criação de sites e landing pages. 
+- 📚 Atualmente estou me aperfeiçoando no JavaScript e estudando o ReactJS 
 
-- 🔭 Hoje trabalho com front-end, utilizando o wordpress para a criação de sites e landing pages. 
-- 🌱Atualmente estou me aperfeiçoando no JavaScript e estudando o ReactJS 
 
 <div>
   <a href="https://github.com/franlvic">
